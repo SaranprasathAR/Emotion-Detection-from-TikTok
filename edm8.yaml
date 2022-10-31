@@ -1,0 +1,10 @@
+train: "" #add root directory of the data
+
+val: "" #add root directory of the data
+
+
+
+nc: 8
+
+
+names: ['anger','bored','excited','fear','happy','relax','sad','worry']
